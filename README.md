@@ -38,7 +38,7 @@ npm install vuetify@next @mdi/font sass
 ```
 
 
-### NotFOUND
+### NotfoundD
 ```
 Click Ofertas o Contactar
 ```
@@ -61,6 +61,4 @@ secreta123
 ```
 npm install axios
 ```
-# Ferrteria
-# Ferreteria
 # Ferreteria
