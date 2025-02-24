@@ -38,9 +38,9 @@ npm install vuetify@next @mdi/font sass
 ```
 
 
-### NotfoundD
+### NotFound
 ```
-Click Ofertas o Contactar
+Click en "Ofertas" || "Contactar"
 ```
 
 ### Login
@@ -51,9 +51,9 @@ secreta123
 
 ### Registro
 ```
-"nombre": "Alberto Rojess",
-"email": "alberto.rojess@example.com",
-"password": "secreta12323",
+"nombre": "Alberto Rojess"
+"email": "alberto.rojess@example.com"
+"password": "secreta12323"
 "telefono": "+1234567890"
 ```
 
